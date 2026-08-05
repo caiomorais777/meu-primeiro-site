@@ -1,14 +1,35 @@
 table{
     border-collapse: collapse;
-}
+    width: 1500px;
+    
+    }
 caption{
     margin-bottom: 12px;
+
 }
 th,td{
     border: 2px solid black;
     padding: 10px;
+    text-align: center;
 }
 th{
-    background-color: red;
+    background-color: rgba(60, 103, 143, 0.993) ;
     color: white;
+}
+.horários{
+    color: black;
+    text-align: center;
+
+}
+#INTERVALO{
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 4px;
+    background-color: darkgray;
+}
+#INTERVALO1{
+    text-align: center;
+    font-size: 15px;
+    letter-spacing: 4px;
+    background-color: darkgray;
 }
